@@ -74,6 +74,7 @@ a svg {
 .py-3 {
     width: 50%;
     display: table-cell;
+    padding-top: 0em !important;
 }
 
 .form-control:active{
