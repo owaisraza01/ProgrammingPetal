@@ -1,0 +1,107 @@
+.responsive {
+    background-color: grey;
+    height: 300px;
+    width: 100%;
+}
+.firstcard {
+    display: inline;
+}
+.card {
+    display: inline;
+    
+}
+.col-lg-4 {
+    justify-content: center;
+    text-align: center;
+}
+.btn-secondary {
+    color: black;
+}
+.btn-outline-success {
+    color: black;
+}
+.btn-outline-dark {
+    background-color: black;
+    
+}
+.mx-3 {
+    color: white;
+}
+.mx-3:hover {
+    color: white;
+}
+.main{
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    font-family: 'Satisfy';
+    font-size: 55px;
+
+}
+.p-2 {
+    color: black !important;
+
+}
+.display-4 {
+    color: #db1d4b;
+}
+.mb-0, .mb-auto {
+    color: white !important ;
+}
+.blog-post-title {
+    color:  #db1d4b;
+}
+p {
+    color: #f9e3a2;
+    font-family: 'Josefin Sans';
+}
+.tcontainer {
+    position: sticky-fixe;
+}
+h1, h2, h3, h5, h4 {
+    color: #db1d4b ;
+    font-family: 'Merienda One';
+}
+a svg {
+    margin-left: 15px;
+    font-size: 40px;
+    color: #db1d4b;
+    align-items: center;
+    margin-bottom: 20px;
+    transition: all 0.2s linear;
+}
+.py-3 {
+    width: 50%;
+    display: table-cell;
+}
+
+.form-control:active{
+    border-color:rgb(219, 19, 86) !important ;
+}
+.mx-3{
+    color:rgb(219, 19, 86) ;
+}
+.p-2{
+    font-family: 'Josefin Sans';
+    transition: all 0.2s linear;
+}
+.display-1{
+    text-align: center;
+    font-size: 70px;
+    padding-top: 30px;
+}
+a:hover svg{
+    transform: scale(1.2);
+    color: rgba(73, 146, 255, 0.986);
+}
+.rounded{
+    margin: 40px;
+}
+
+.p-2:hover{
+    transform: scale(1.1) ;
+    background-color: #f9e3a2 ;
+}
+.flex-nowrap {
+    background-color: black !important;
+}
